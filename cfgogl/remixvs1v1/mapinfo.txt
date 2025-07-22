@@ -1,0 +1,360 @@
+"MapInfo"
+{
+// Dead Center  死亡中心
+	"c1m1_hotel"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c1m2_streets"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c1m3_mall"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c1m4_atrium"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// Dark Carnival 黑色嘉年华
+	"c2m1_highway"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c2m2_fairgrounds"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c2m3_coaster"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c2m4_barns"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c2m5_concert"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}	
+// Swamp Fever 沼泽激战
+	"c3m1_plankcountry"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c3m2_swamp"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c3m3_shantytown"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c3m4_plantation"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// Hard Rain 暴风骤雨
+	"c4m1_milltown_a"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c4m2_sugarmill_a"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c4m3_sugarmill_b"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c4m4_milltown_b"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c4m5_milltown_escape"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// The Parish 教区
+	"c5m1_waterfront"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c5m2_park"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c5m3_cemetery"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c5m4_quarter"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c5m5_bridge"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// The Passing 短暂时刻
+	"c6m1_riverbank"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c6m2_bedlam"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c6m3_port"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// The Sacrifice 消逝
+	"c7m1_docks"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c7m2_barge"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c7m3_port"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// No Mercy 毫不留情
+	"c8m1_apartment"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c8m2_subway"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c8m3_sewers"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c8m4_interior"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c8m5_rooftop"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// Crash Course 坠机险途
+	"c9m1_alleys"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c9m2_lots"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// Death Toll 死亡丧钟
+	"c10m1_caves"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c10m2_drainage"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c10m3_ranchhouse"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c10m4_mainstreet"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c10m5_houseboat"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// Dead Air 寂静时分
+	"c11m1_greenhouse"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c11m2_offices"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c11m3_garage"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c11m4_terminal"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c11m5_runway"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// Blood Harvest 血腥收获
+	"c12m1_hilltop"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c12m2_traintunnel"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c12m3_bridge"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c12m4_barn"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c12m5_cornfield"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// Cold Stream 刺骨寒溪
+	"c13m1_alpinecreek"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c13m2_southpinestream"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c13m3_memorialbridge"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c13m4_cutthroatcreek"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+// The Last Stand 临死一搏
+	"c14m1_junkyard"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+	"c14m2_lighthouse"
+	{
+		"tank_gab" "30"
+		"mob_size" "10"
+		"tank_mob_size" "7"
+	}
+}
+	
