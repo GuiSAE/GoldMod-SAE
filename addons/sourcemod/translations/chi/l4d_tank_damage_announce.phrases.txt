@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"TankDead"
+	{
+		"chi"		"{blue}[{default}!{blue}]Tank{default}伤害统计：({olive}{1}{default}) {green}存活时间：{olive}{2} {green}有效伤害：{olive}{3}"
+	}
+	"TankDead2"
+	{
+		"chi"		"{blue}[{default}!{blue}]Tank{default}伤害统计：({olive}{1}{default}) {green}存活时间：{olive}{2} {green}有效伤害：{olive}{3}"
+	}
+	"TankHealthRemaining"
+	{
+		"chi"		"{red}[{default}!{red}]Tank{olive}({1}) {default}剩余血量: {red}{2}"
+	}
+	"DamageFromTank"
+	{
+		"chi"		"{default}({green}承伤 {blue}{1}{default}) {green}>> {blue}{2}{default}拳 | {blue}{3}{default}石 | {blue}{4}{default}铁"
+	}
+}

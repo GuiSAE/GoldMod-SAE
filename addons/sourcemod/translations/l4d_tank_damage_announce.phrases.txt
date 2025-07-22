@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"TankDead"
+	{
+		"#format"	"{1:s},{2:s},{3:d}"
+		"en"		"{blue}[{default}!{blue}]Damage {default}dealt to {blue}Tank：{olive}{1} {green}Alive Time：{olive}{2} {green}Valid Damage：{olive}{3}"
+	}
+	"TankDead2"
+	{
+		"#format"	"{1:N},{2:s},{3:d}"
+		"en"		"{blue}[{default}!{blue}]Damage {default}dealt to {blue}Tank：{olive}{1} {green}Alive Time：{olive}{2} {green}Valid Damage：{olive}{3}"
+	}
+	"TankHealthRemaining"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"{red}[{default}!{red}]Tank{olive}({1}) {default}had health remaining: {red}{2}"
+	}
+	"DamageFromTank"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:d}"
+		"en"		"{default}({green}Injuries {blue}{1}{default}) {green}>> {blue}{2}{default}Punch | {blue}{3}{default}Rock | {blue}{4}{default}Metal"
+	}
+}
